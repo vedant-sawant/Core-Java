@@ -5,7 +5,7 @@
     Date: 05/06/2024
  */
 
- class methodoverload
+ class bagha
  {
      void displ()
      {
@@ -24,7 +24,7 @@
  {
      public static void main(String[] args) 
      {
-         methodoverload m1=new methodoverload();
+        bagha m1=new bagha();
          m1.displ();
          m1.displ(23);
          System.out.println(m1.displ("Vedant"));
